@@ -1,0 +1,6 @@
+# Ignore all acetylcholinesterase CSV files
+acetylcholinesterase_*.csv
+
+# Ignore CDD ML notebooks for parts 3 to 5
+CDD_ML_Part_[3-5]_*.ipynb
+
